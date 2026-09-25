@@ -75,3 +75,8 @@ https://www.youtube.com/watch?v=URF0SXW9h4g
 
 Bangkok Train door sound
 https://www.youtube.com/watch?v=T0hNVjsOcts
+
+Crying audio source (before edit):
+@JeanMyna_VA
+https://opengameart.org/content/crying-female-low-tone-voice-over-vocal-sound-for-character
+
