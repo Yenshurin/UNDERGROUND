@@ -7,16 +7,17 @@ https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive
 --------
 
 yo new vid dropped 
-[me trying to prove im not insane]
+me trying to prove im not insane
 ~~~~~
 https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link
 ~~~~~
-[atira adding caitlyns train asset :D]
+atira adding caitlyns train asset :D
 ~~~~~
 https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link
 ~~~~~
 will add newest updates soon :P lemme lock in for PF and we gucci
 ----------
+
 # Whats new with the build
 Fixed: item reset bug, also fixed sprite to animate when getting harassed by teketeke, fixed broken room transition
 Added: New train
