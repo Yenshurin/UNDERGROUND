@@ -4,7 +4,16 @@ GAME IS TOO FAT
 https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link
 ~~~~~
 ^^link to newest build here😭😭 (Updated on Wednesday W12)
-
+~~~~~
+[me trying to prove im not insane](https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link)
+~~~~~
+~~~~~
+[atira adding caitlyns train asset :D](https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link)
+~~~~~
+~~~~~
+will add newest updates soon :P lemme lock in for PF and we gucci
+~~~~~
+yo new vid dropped 
 Fixed: item reset bug, also fixed sprite to animate when getting harassed by teketeke, fixed broken room transition
 Added: New train
 
