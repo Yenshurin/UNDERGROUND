@@ -16,6 +16,7 @@ atira adding caitlyns train asset :D
 https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link
 ~~~~~
 will add newest updates soon :P lemme lock in for PF and we gucci
+
 ----------
 
 # Whats new with the build
@@ -36,7 +37,8 @@ Goal by Grad Show: saving + simple menu, opening cutscene (?), things mentioned 
 
 
 ----------------------------------------------------------------------------------------
-old vers VVV
+
+# old vers VVV
 0.2.8 
 ~~~~~~~~~~~~~~~~~~~~~
 https://drive.google.com/file/d/1_x3gPB7PVIlL3wsF-4bbEEMnxo1JpCVf/view?usp=drive_link
