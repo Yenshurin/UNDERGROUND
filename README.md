@@ -37,7 +37,10 @@ maybe its not in by prior put in these goals instead VVV
 
 Goal by Grad Show: saving + simple menu, opening cutscene (?), things mentioned in todo list, and if possible bbg so theres more stakes (bbg steaks). 
 
-
+whole drive folder
+~~~~~
+https://drive.google.com/drive/folders/1Nj1cpNTnKIgLVWsQfojcMl9QAuS4pw09?usp=sharing
+~~~~~
 ----------------------------------------------------------------------------------------
 
 # old vers VVV
