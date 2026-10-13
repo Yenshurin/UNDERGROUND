@@ -1,5 +1,7 @@
 # GDS6 - Progress log for Project Underground
-GAME IS TOO FAT 
+GAME IS TOO FAT (will always put in google drive if git doesnt work)
+
+BUT GOOD NEWS IG (i'll take anything atp) Also was messing around with git, so I can upload bigger files using the desktop application. ask me if you need help getting it set up and I will struggle since I barely understand it myself but I seem to have it doing mostly what I want it do. DO NOT LOOK AT THE COMMITS💀, NOTHING HAPPENED.
 ~~~~~
 https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link
 ~~~~~
@@ -22,8 +24,6 @@ will add newest updates soon :P lemme lock in for PF and we gucci
 # Whats new with the build
 Fixed: item reset bug, also fixed sprite to animate when getting harassed by teketeke, fixed broken room transition
 Added: New train
-
-Also was messing around with git, so I can upload bigger files using the desktop application. ask me if you need help getting it set up and I will struggle since I barely understand it myself but I seem to have it doing mostly what I want it do. DO NOT LOOK AT THE COMMITS💀, NOTHING HAPPENED.
 
 # Whats next
 Next goal (will try to get in by sun, if not its fine, if cant get all in by tues is ok too but i'll try my best): input puzzle 2 (ghost girl give item, go locked room, open locker, slice body cutscene, return to control, input code, leave), input all new sounds from Elle (such as crying bathroom ghost, vending machine etc), Dialogue branching choices -- aka. Y/N (self-insert), aforementioned cutscene code and goop girl, profile sprites. 
