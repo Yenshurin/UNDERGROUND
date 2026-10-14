@@ -1,5 +1,5 @@
-# GDS6 - Progress log for Project Underground
-GAME IS TOO FAT
+<img width="901" height="46" alt="image" src="https://github.com/user-attachments/assets/404ed023-ebdc-4867-8f2e-4cbae5c67d28" /># GDS6 - Progress log for Project Underground
+0.3.1 (fixed)
 https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link
 ^^link to newest build here😭😭
 
