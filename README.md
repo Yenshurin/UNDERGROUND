@@ -51,3 +51,5 @@ https://drive.google.com/file/d/1_x3gPB7PVIlL3wsF-4bbEEMnxo1JpCVf/view?usp=drive
 ~~~~~~~~~~~~~~~~~~~~~
 https://drive.google.com/file/d/1r-yVpuu3wq2fFgMuSO2xzgDbvGlXxpFp/view?usp=drive_link
 ~~~~~~~~~~~~~~~~~~~~~
+-----
+p.s if theres a new issue, remind me to check if other objects are conflicting💀
