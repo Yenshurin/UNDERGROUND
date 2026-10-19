@@ -8,6 +8,10 @@ ask me if you need help getting it set up and I will struggle since I barely und
 https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link
 
 ^^link to newest build for googleDrive (Updated on Wednesday W12)
+-------
+Powerpoint Presentation
+
+https://docs.google.com/presentation/d/1WdSHanwnhwsiLODUjwDHU-BWt_Dg3BVGCCce9Qc7Qw4/edit?usp=sharing
 
 --------
 # yo new vid dropped 
