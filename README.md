@@ -1,13 +1,9 @@
 # GDS6 - Progress log for Project Underground
-GAME IS TOO FAT (will always put in google drive if git doesnt work)
-
-BUT GOOD NEWS IG (i'll take anything atp) was messing around with githubdesktop, kinda got the hang of it so... I can upload bigger files using the desktop application.
-ask me if you need help getting it set up and I will struggle since I barely understand it myself but I seem to have it doing mostly what I want it do. DO NOT LOOK AT THE COMMITS💀, NOTHING HAPPENED.
-
 
 https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link
-
 ^^link to newest build for googleDrive (Updated on Wednesday W12)
+(will always put in google drive if git doesnt work)
+
 -------
 # Powerpoint Presentation
 
