@@ -2,7 +2,7 @@
 
 https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link
 
-^^link to newest build for googleDrive (Updated on Wednesday W12)
+^^link to newest build for Google Drive - Updated on Wednesday W12
 (will always put in google drive if git doesnt work)
 
 -------
@@ -24,21 +24,19 @@ will add newest updates soon :P lemme lock in for PF and we gucci
 ----------
 
 # Whats new with the build
-Fixed: item reset bug, also fixed sprite to animate when getting harassed by teketeke, fixed broken room transition
-Added: New train
+Swapped out UI, Atira added Mainmenu screen, fixed a few bugs, implemented more sounds
 
 # Whats next
-Next goal (will try to get in by sun, if not its fine, if cant get all in by tues is ok too but i'll try my best): input puzzle 2 (ghost girl give item, go locked room, open locker, slice body cutscene, return to control, input code, leave), input all new sounds from Elle (such as crying bathroom ghost, vending machine etc), Dialogue branching choices -- aka. Y/N (self-insert), aforementioned cutscene code and goop girl, profile sprites. 
+Next goal: input puzzle 2 (ghost girl give item, go locked room, open locker, slice body cutscene, return to control, input code, leave), Dialogue branching choices -- aka. Y/N (self-insert), aforementioned cutscene code and goop girl, profile sprites. 
 
-goals that we can try to get in but not a big fuss if not
-also elevator, train door and sliding door open animations
-no stress about writhing wall of flesh
-maybe its not in by prior put in these goals instead VVV
-
-Goal by Grad Show: saving + simple menu, opening cutscene (?), things mentioned in todo list, and if possible bbg so theres more stakes (bbg steaks). 
+goals that we can try to get in but not a big fuss if not (goals for grad show):
+- elevator opening animation, train door and sliding door open animations
+- no stress about writhing wall of flesh
+- saving 
+- opening cutscene
+- if possible bbg so theres more stakes (bbg steaks). 
 
 whole drive folder
-
 https://drive.google.com/drive/folders/1Nj1cpNTnKIgLVWsQfojcMl9QAuS4pw09?usp=sharing
 
 ----------------------------------------------------------------------------------------
