@@ -1,9 +1,12 @@
 # GDS6 - Progress log for Project Underground
 
-[https://drive.google.com/file/d/1CbCJ-DJYRm9GhF7NlkRVY5Gmqc1u2b_Y/view?usp=drive_link](https://drive.google.com/file/d/11iev1avjWQ_rVifras97tBMut76jGKAH/view?usp=drive_link)
+https://drive.google.com/file/d/1v2K_Pd8UZmfQY2tVYLtgIMcfEcy5O0px/view?usp=drive_link
 
 ^^link to newest build for Google Drive - Updated on Wednesday W12
 (will always put in google drive if git doesnt work)
+
+https://drive.google.com/file/d/1wHQ0AtC8hEzMi9sv2nO9UXS1EyC0A64W/view?usp=drive_link
+^^playable exe
 
 -------
 # Powerpoint Presentation
