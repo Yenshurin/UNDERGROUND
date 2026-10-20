@@ -16,11 +16,9 @@ https://docs.google.com/presentation/d/1WdSHanwnhwsiLODUjwDHU-BWt_Dg3BVGCCce9Qc7
 --------
 # yo new vid dropped 
 
-me trying to prove im not insane
-https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link
-
-atira adding caitlyns train asset :D
-https://drive.google.com/file/d/1zAPeMs9y7I56p8FMRAobBjDsUmq-o3yo/view?usp=drive_link
+me trying to prove im not insane (part 1 = puzzle, part 2 = teketeke showcase)
+https://drive.google.com/file/d/1J7TlOxWNtCU0FEyaC8QFkqGREm2tlHTy/view?usp=drive_link
+https://drive.google.com/file/d/14PJuFyDi2kuBhguAA3Roo4fQwzSNuTxW/view?usp=drive_link
 
 will add newest updates soon :P lemme lock in for PF and we gucci
 
