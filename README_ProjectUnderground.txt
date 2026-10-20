@@ -5,29 +5,29 @@ Controls:
 WASD - Movement
 Space - Interact
 F - Button mash
+Y - Start game
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 About-
-This build currently only demos the first section of the game -- mostly to test for atmosphere and the main gameplay mechanics. Game ends when the player unlocks the control room door.
+This build currently only demos the first puzzle, dialogue interactions and Teketeke monster.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 How to play:
-Exit the train then explore the train station to find an escape. There are ghosts around, if caught by them, Mash F to escape. The ghosts may lower your 'Sense of Self' - darkening the view and slowing you down a little. You can replenish your SOS by interacting with gates.
+Exit the train then explore the train station to find an escape (Look for the keycodes that unlock the train gates). Interact with different objects to find items to unlock more interactions and obtain the keycodes. If caught by a ghost, Mash F to escape. The ghosts may lower your 'Sense of Self' - darkening the view and slowing you down a little. You can replenish your SOS by interacting with the gate objects near the escalators.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Content consists of interactions with objects, button mash mechanics with ghosts, lock and key interactions and to show the SOS meter (Player character becoming more stressed over time).
+Content consists of interactions with objects, button mash mechanics with ghosts, lock and key interactions/fetch quests and the SOS meter (Player character becoming more stressed over time - functions like a HP bar).
 
 ~~~~
 Bugs:
 Sound -
-Chase sound plays when noticed by a ghost, but if already being chased and the first ghost dies and second one is still chasing, the chase sound stops when the first ghost dies (doesn't start up again).
+When being chased if spamming F even when not knocked down, the mash sound still plays.
 
 Graphics -
-While walking near the ends of screen, there's a weird distortion effect (to do with the vignette/FXs)
+Sometimes items don't display. Usually they do so this is in case they don't.
 
 Gameplay -
 Can interact with some objects behind them.
-
 
 ~~~~~~~~
 
