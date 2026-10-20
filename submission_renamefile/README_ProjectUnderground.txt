@@ -22,6 +22,7 @@ Content consists of interactions with objects, button mash mechanics with ghosts
 Bugs:
 Sound -
 When being chased if spamming F even when not knocked down, the mash sound still plays.
+Coin sound keeps playing even when the dialogue stops, normally it shouldn't
 
 Graphics -
 Sometimes items don't display. Usually they do so this is in case they don't.
