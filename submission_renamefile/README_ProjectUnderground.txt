@@ -22,16 +22,14 @@ Content consists of interactions with objects, button mash mechanics with ghosts
 Bugs:
 Sound -
 When being chased if spamming F even when not knocked down, the mash sound still plays.
-Coin sound keeps playing even when the dialogue stops, normally it shouldn't
 
 Graphics -
-Sometimes items don't display. Usually they do so this is in case they don't.
+Object scaling can change based on screen size/resolution, items may not display because of that.
 
 Gameplay -
 Can interact with some objects behind them.
 
 ~~~~~~~~
-
 Sound References (Majority layered together with own recorded sounds):
 
 _ shepard tone
@@ -80,4 +78,17 @@ https://www.youtube.com/watch?v=T0hNVjsOcts
 Crying audio source (before edit):
 @JeanMyna_VA
 https://opengameart.org/content/crying-female-low-tone-voice-over-vocal-sound-for-character
+
+code reference:
+dialogue -
+https://www.youtube.com/watch?v=wTJgnxJ6M-I&list=PLhIbBGhnxj5Ier75j1M9jj5xrtAaaL1_4&index=5&t=429s&pp=iAQB
+
+movement - 
+https://www.youtube.com/watch?v=1J5EydrnIPs&list=PLhIbBGhnxj5Ier75j1M9jj5xrtAaaL1_4&index=1&pp=iAQB
+
+room transition code - 
+https://youtu.be/WLQiVE_k5SA?si=ZiH-XKicf78uKWH8
+
+https://youtu.be/xlqFO_fuCEo?si=KZwZrpU8070LSSdR
+
 
