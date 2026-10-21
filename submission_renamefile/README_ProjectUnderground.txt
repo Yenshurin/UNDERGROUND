@@ -5,7 +5,6 @@ Controls:
 WASD - Movement
 Space - Interact
 F - Button mash
-Y - Start game
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 About-
