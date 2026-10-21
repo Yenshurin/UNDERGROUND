@@ -21,9 +21,12 @@ Content consists of interactions with objects, button mash mechanics with ghosts
 Bugs:
 Sound -
 When being chased if spamming F even when not knocked down, the mash sound still plays.
+Coin sound from ticket machine sometimes still plays after dialogue finishes
 
 Graphics -
 Object scaling can change based on screen size/resolution, items may not display because of that.
+When knocked down by Teketeke monster, the UI box disapppears.
+Heart UI still is still visible on the death screen.
 
 Gameplay -
 Can interact with some objects behind them.
