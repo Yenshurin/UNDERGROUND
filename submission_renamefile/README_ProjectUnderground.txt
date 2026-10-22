@@ -98,7 +98,9 @@ https://www.youtube.com/watch?v=1J5EydrnIPs&list=PLhIbBGhnxj5Ier75j1M9jj5xrtAaaL
 
 room transition code - 
 https://youtu.be/WLQiVE_k5SA?si=ZiH-XKicf78uKWH8
-
 https://youtu.be/xlqFO_fuCEo?si=KZwZrpU8070LSSdR
+
+cutscene code - 
+https://www.youtube.com/watch?v=0S8WsAJvTjE
 
 
