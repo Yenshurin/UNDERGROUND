@@ -18,7 +18,7 @@ Game includes - Flashing lights, graphic/disturbing imagery, gore, blood, dark t
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 How to play:
-Exit the train then explore the train station to find an escape (Look for the keycodes that unlock the train gates). Interact with different objects to find items to unlock more interactions and obtain the keycodes. If caught by a ghost, Mash F to escape. The ghosts may lower your 'Sense of Self' - darkening the view and slowing you down a little. You can replenish your SOS by interacting with the gate objects near the escalators.
+Exit the train then explore the train station to find an escape (Look for the keycodes that unlock the train gates). Interact with different objects (Try not to leave any stone unturned) to find items to unlock more interactions and obtain the keycodes. If caught by a ghost, Mash F to escape. The ghosts may lower your 'Sense of Self' - darkening the view and slowing you down a little. You can replenish your SOS by interacting with the gate objects near the escalators.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Content consists of interactions with objects, button mash mechanics with ghosts, lock and key interactions/fetch quests and the SOS meter (Player character becoming more stressed over time - functions like a HP bar).
@@ -37,6 +37,8 @@ Heart UI is still visible on the death screen.
 Gameplay -
 Can interact with some objects behind them.
 
+Note:
+Not exactly a bug but if you put in both codes in the computer at separate times you might have to go through some of the same dialogue again in the computer.
 ~~~~~~~~
 Sound References (Majority layered together with own recorded sounds):
 
