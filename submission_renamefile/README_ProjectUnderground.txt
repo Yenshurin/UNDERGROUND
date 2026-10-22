@@ -9,7 +9,7 @@ Enter - Skip Opening cutscene.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 About-
-Current: This build currently only demos the overall idea of the game - the two puzzles, two cutscenes, object dialogue interactions and a single enemy type. 
+Current: This build currently only demos the overall idea of the game - the two puzzles, four cutscenes (depending on a choice in the game), object dialogue interactions and a single enemy type. 
 
 Future: We aim to implement another enemy if possible by the grad show and further fleshing out the rest of the environment and interactions (with branching dialogue choices).
 
