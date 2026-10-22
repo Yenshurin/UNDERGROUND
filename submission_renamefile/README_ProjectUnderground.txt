@@ -5,6 +5,7 @@ Controls:
 WASD - Movement
 Space - Interact
 F - Button mash
+Enter - Skip Opening cutscene.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 About-
