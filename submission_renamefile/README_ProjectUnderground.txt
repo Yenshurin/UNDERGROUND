@@ -9,7 +9,12 @@ Enter - Skip Opening cutscene.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 About-
-This build currently only demos the first puzzle, dialogue interactions and Teketeke monster.
+Current: This build currently only demos the overall idea of the game - the two puzzles, two cutscenes, object dialogue interactions and a single enemy type. 
+
+Future: We aim to implement another enemy if possible by the grad show and further fleshing out the rest of the environment and interactions (with branching dialogue choices).
+
+[IMPORTANT]:
+Game includes - Flashing lights, graphic imagery, dark themes, loud noises. Viewer discretion advised.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 How to play:
