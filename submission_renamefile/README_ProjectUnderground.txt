@@ -20,6 +20,8 @@ Game includes - Flashing lights, graphic/disturbing imagery, gore, blood, dark t
 How to play:
 Exit the train then explore the train station to find an escape (Look for the keycodes that unlock the train gates). Interact with different objects (Try not to leave any stone unturned) to find items to unlock more interactions and obtain the keycodes. If caught by a ghost, Mash F to escape. The ghosts may lower your 'Sense of Self' - darkening the view and slowing you down a little. You can replenish your SOS by interacting with the gate objects near the escalators.
 
+Note (SPOILERS READ AFTER PLAYING THROUGH):
+- to change the ending, pick up the bear.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Content consists of interactions with objects, button mash mechanics with ghosts, lock and key interactions/fetch quests and the SOS meter (Player character becoming more stressed over time - functions like a HP bar).
 
@@ -33,7 +35,7 @@ Graphics -
 - Object scaling can change based on screen size/resolution, items may not display because of that.
 - Issues with the locker cutscene sometimes when the player already has the glass shard object and interacts with the locker.
 - Items may look layered on each other.
-- SOS Heart UI changes size when teketeke knocks you over 
+- SOS Heart UI changes size when teketeke knocks you over.
 
 Gameplay -
 - Can interact with some objects behind them.
@@ -41,7 +43,6 @@ Gameplay -
 Note:
 - Not exactly a bug but if you put in both codes in the computer at separate times you might have to go through some of the same dialogue again in the computer.
 - teke teke at this point is stationary when idle.
--
 ~~~~~~~~
 Sound References (Majority layered together with own recorded sounds):
 
