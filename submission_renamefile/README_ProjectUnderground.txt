@@ -26,19 +26,22 @@ Content consists of interactions with objects, button mash mechanics with ghosts
 ~~~~
 Bugs:
 Sound -
-When being chased if spamming F even when not knocked down, the mash sound still plays.
-Coin sound from ticket machine sometimes* still plays after dialogue finishes
+- When being chased if spamming F even when not knocked down, the mash sound still plays.
+- Coin sound from ticket machine sometimes* still plays after dialogue finishes.
 
 Graphics -
-Object scaling can change based on screen size/resolution, items may not display because of that.
-When knocked down by the Teketeke monster, the SOS Heart UI box disappears.
-Heart UI is still visible on the death screen.
+- Object scaling can change based on screen size/resolution, items may not display because of that.
+- Issues with the locker cutscene sometimes when the player already has the glass shard object and interacts with the locker.
+- Items may look layered on each other.
+- SOS Heart UI changes size when teketeke knocks you over 
 
 Gameplay -
-Can interact with some objects behind them.
+- Can interact with some objects behind them.
 
 Note:
-Not exactly a bug but if you put in both codes in the computer at separate times you might have to go through some of the same dialogue again in the computer.
+- Not exactly a bug but if you put in both codes in the computer at separate times you might have to go through some of the same dialogue again in the computer.
+- teke teke at this point is stationary when idle.
+-
 ~~~~~~~~
 Sound References (Majority layered together with own recorded sounds):
 
