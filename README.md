@@ -35,6 +35,7 @@ goals for grad show:
 - If i can add audio between dialogue
 - Footstep sounds fix 
 - Fix resolution and scaling issues (struggle)
+- make interactable objects more clear, especially ones that give you items (glass shard bin etc)
 
 whole drive folder
 https://drive.google.com/drive/folders/1Nj1cpNTnKIgLVWsQfojcMl9QAuS4pw09?usp=sharing
