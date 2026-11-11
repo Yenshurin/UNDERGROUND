@@ -25,17 +25,19 @@ GAME IS COMPLETE-ISH
 
 # Whats next
 goals for grad show:
-- icon, and load bg for actual game + keyart for showcase website
-- elevator opening animation, train door and sliding door open animations
-- saving 
-- if possible bbg so theres more stakes (bbg steaks). 
-- in Add dialogue branches(?)
-- Goopgirl start cutscene (her walking through train gate)
-- PROFILE SPRITES (i really want this in for the gradshow)
-- If i can add audio between dialogue
-- Footstep sounds fix 
-- Fix resolution and scaling issues (struggle)
-- make interactable objects more clear, especially ones that give you items (glass shard bin etc)
+- PROFILE SPRITES (i really want this in for the gradshow) [-]
+- 
+~~- icon, and load bg for actual game + keyart for showcase website~~ [v]
+~~- make interactable objects more clear, especially ones that give you items (glass shard bin etc)~~ [v]
+
+- elevator opening animation, train door and sliding door open animations  [/]
+- saving [/]
+- if possible bbg so theres more stakes (bbg steaks). [/]
+- in Add dialogue branches(?)[/]
+- Goopgirl start cutscene (her walking through train gate) [/]
+- If i can add audio between dialogue [/]
+- Footstep sounds fix  [/]
+- Fix resolution and scaling issues (struggle) [/]
 
 whole drive folder
 https://drive.google.com/drive/folders/1Nj1cpNTnKIgLVWsQfojcMl9QAuS4pw09?usp=sharing
