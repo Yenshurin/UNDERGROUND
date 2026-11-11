@@ -28,6 +28,7 @@ goals for grad show:
 - PROFILE SPRITES (i really want this in for the gradshow) [-]
   
 ~~- icon, and load bg for actual game + keyart for showcase website~~ [v]
+
 ~~- make interactable objects more clear, especially ones that give you items (glass shard bin etc)~~ [v]
 
 - elevator opening animation, train door and sliding door open animations  [/]
